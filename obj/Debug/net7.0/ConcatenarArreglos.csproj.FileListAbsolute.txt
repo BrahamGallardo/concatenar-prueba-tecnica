@@ -1,0 +1,15 @@
+C:\Projects\EFactor\ConcatenarArreglos\bin\Debug\net7.0\ConcatenarArreglos.exe
+C:\Projects\EFactor\ConcatenarArreglos\bin\Debug\net7.0\ConcatenarArreglos.deps.json
+C:\Projects\EFactor\ConcatenarArreglos\bin\Debug\net7.0\ConcatenarArreglos.runtimeconfig.json
+C:\Projects\EFactor\ConcatenarArreglos\bin\Debug\net7.0\ConcatenarArreglos.dll
+C:\Projects\EFactor\ConcatenarArreglos\bin\Debug\net7.0\ConcatenarArreglos.pdb
+C:\Projects\EFactor\ConcatenarArreglos\obj\Debug\net7.0\ConcatenarArreglos.csproj.AssemblyReference.cache
+C:\Projects\EFactor\ConcatenarArreglos\obj\Debug\net7.0\ConcatenarArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\EFactor\ConcatenarArreglos\obj\Debug\net7.0\ConcatenarArreglos.AssemblyInfoInputs.cache
+C:\Projects\EFactor\ConcatenarArreglos\obj\Debug\net7.0\ConcatenarArreglos.AssemblyInfo.cs
+C:\Projects\EFactor\ConcatenarArreglos\obj\Debug\net7.0\ConcatenarArreglos.csproj.CoreCompileInputs.cache
+C:\Projects\EFactor\ConcatenarArreglos\obj\Debug\net7.0\ConcatenarArreglos.dll
+C:\Projects\EFactor\ConcatenarArreglos\obj\Debug\net7.0\refint\ConcatenarArreglos.dll
+C:\Projects\EFactor\ConcatenarArreglos\obj\Debug\net7.0\ConcatenarArreglos.pdb
+C:\Projects\EFactor\ConcatenarArreglos\obj\Debug\net7.0\ConcatenarArreglos.genruntimeconfig.cache
+C:\Projects\EFactor\ConcatenarArreglos\obj\Debug\net7.0\ref\ConcatenarArreglos.dll
